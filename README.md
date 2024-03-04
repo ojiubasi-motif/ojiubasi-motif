@@ -17,9 +17,9 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 # Summary - Pelz
 
-|    Overall     | High risk | Medium risk |
-| :------------: | :-------: | :---------: |
-| 22 High/Medium |  14 High  |  8 Medium   |
+|    Overall    | High risk | Medium risk |
+| :-----------: | :-------: | :---------: |
+| 4 High/Medium |  4 High   |  0 Medium   |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
