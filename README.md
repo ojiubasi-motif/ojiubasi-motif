@@ -36,6 +36,6 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 ## <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=40 height=27> Sherlock
 
-|                        Contest                        | High risk | Medium risk | Ranking | Security report |
-| :---------------------------------------------------: | :-------: | :---------: | :-----: | :-------------: |
-| [Jala Swap](https://audits.sherlock.xyz/contests/233) |     -     |      -      |    -    | [Coming soon]() |
+| Contest | High risk | Medium risk | Ranking | Security report |
+| :-----: | :-------: | :---------: | :-----: | :-------------: |
+|         |     -     |      -      |    -    |                 |
