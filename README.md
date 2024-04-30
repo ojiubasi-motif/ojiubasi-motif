@@ -13,7 +13,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 - Twitter: [@Pelz_Dev](https://twitter.com/Pelz_Dev)
 - Telegram: [@Pelumi](https://t.me/Pelumi_Al)
 - Linkedin: [Oluwapelumi Alonge](https://www.linkedin.com/in/oluwapelumi-alonge-659911251/)
-- Email: [alongepelumi15@gmail.com](alongepelumi15@gmail.com)
+- Email: [devpelz64@gmail.com](devpelz64@gmail.com)
 
 # Summary - Pelz
 
