@@ -1,6 +1,6 @@
 # About Me
 
-Hey 👋, Pelumi here! I'm an independent blockchain security researcher, busy competing in audit contests on platforms like Code4rena, Sherlock, and Codehawks. Check out my past findings and contest results here.
+Hey 👋, Pelz here! I'm an independent blockchain security researcher, busy competing in audit contests on platforms like Code4rena, Sherlock, and Codehawks. Check out my past findings and contest results here.
 
 - Code4rena Profile: [Pelz](https://code4rena.com/@Pelz)
 - Sherlock Profile: [Pelz](https://audits.sherlock.xyz/watson/Pelz)
@@ -17,9 +17,9 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 # Summary - Pelz
 
-|    Overall    | High risk | Medium risk |
-| :-----------: | :-------: | :---------: |
-| 7 High/Medium |  6 High   |  1 Medium   |
+|    Overall     | High risk | Medium risk |
+| :------------: | :-------: | :---------: |
+| 10 High/Medium |  8 Highs  |  2 Mediums  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -27,6 +27,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 | :--------------------------------------------------------------------------: | :-------: | :---------: | :-----: | :--------------------------------------------------------------------------------------------------------: |
 | [Thunder Loan](https://www.codehawks.com/contests/clocopz26004rkx08q1n61wnz) |     1     |      0      |    -    | [Report](https://github.com/DevPelz/Portfolio/blob/main/CodeHawks/Pelz-First-Flight-%233_-Thunder-Loan.md) |
 | [Santa's List](https://www.codehawks.com/contests/clpba0ama0001ywpabex01hrp) |     3     |      0      |    -    | [Report](https://github.com/DevPelz/Portfolio/blob/main/CodeHawks/Pelz-First-Flight-%235_-Santa's-List.md) |
+|  [Baba Marta](https://www.codehawks.com/contests/cluseb1bf0001s4tjl2rzajup)  |     2     |      1      |    -    |                                                 [Report]()                                                 |
 
 ## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
 
