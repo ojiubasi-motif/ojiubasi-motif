@@ -17,8 +17,8 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 # Summary - Pelz
 
-|    Overall     | High risk | Medium risk |
-| :------------: | :-------: | :---------: |
+|    Overall     | High risk | Medium risk | Low Risks |
+| :------------: | :-------: | :---------: | :-------: |
 | 10 High/Medium |  8 Highs  |  2 Mediums  |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
@@ -40,3 +40,10 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 | Contest | High risk | Medium risk | Ranking | Security report |
 | :-----: | :-------: | :---------: | :-----: | :-------------: |
 |         |     -     |      -      |    -    |                 |
+
+## Private Contests/ Low Findings
+
+|                            Contest                             | High risk | Medium risk | Low risk | Ranking |                                                      Security report                                                       |
+| :------------------------------------------------------------: | :-------: | :---------: | :------: | :-----: | :------------------------------------------------------------------------------------------------------------------------: |
+| [PossumLabsV2](https://github.com/PossumLabsCrypto/PortalsV2)  |     -     |      -      |    1     |    -    |    [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf)    |
+| [PossumAdapters](https://github.com/PossumLabsCrypto/Adapters) |     -     |      -      |    3     |    -    | [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-Adapters-Security-Review.pdf) |
