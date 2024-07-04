@@ -34,6 +34,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 |                            Contest                            | High risk | Medium risk | Ranking |                             Security report                              |
 | :-----------------------------------------------------------: | :-------: | :---------: | :-----: | :----------------------------------------------------------------------: |
 | [Ai Arena](https://code4rena.com/audits/2024-02-ai-arena#top) |     2     |      1      |    -    | [Report](https://github.com/code-423n4/2024-02-ai-arena-findings/issues) |
+|     [Noya](https://code4rena.com/audits/2024-04-noya#top)     |     -     |      1      |    -    |                             [Coming soon]()                              |
 
 ## <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=40 height=27> Sherlock
 
