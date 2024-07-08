@@ -19,7 +19,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 10 High/Medium |  8 Highs  |  2 Mediums  |  4 Lows   |
+| 12 High/Medium |  8 Highs  |  4 Mediums  |  4 Lows   |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
@@ -35,6 +35,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 | :-----------------------------------------------------------: | :-------: | :---------: | :-----: | :----------------------------------------------------------------------: |
 | [Ai Arena](https://code4rena.com/audits/2024-02-ai-arena#top) |     2     |      1      |    -    | [Report](https://github.com/code-423n4/2024-02-ai-arena-findings/issues) |
 |     [Noya](https://code4rena.com/audits/2024-04-noya#top)     |     -     |      1      |    -    |                             [Coming soon]()                              |
+|    [Predy](https://code4rena.com/audits/2024-05-predy#top)    |     -     |      1      |    -    |                             [Coming soon]()                              |
 
 ## <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=40 height=27> Sherlock
 
