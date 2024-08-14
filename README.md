@@ -19,17 +19,18 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 |    Overall     | High risk | Medium risk | Low Risks |
 | :------------: | :-------: | :---------: | :-------: |
-| 13 High/Medium |  9 Highs  |  4 Mediums  |  5 Lows   |
+| 13 High/Medium |  9 Highs  |  4 Mediums  |  6 Lows   |
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
 
-|                                   Contest                                    | High risk | Medium risk | Low risk |                                              Security Report                                               | Ranking |
-| :--------------------------------------------------------------------------: | :-------: | :---------: | :------: | :--------------------------------------------------------------------------------------------------------: | ------- |
-| [Thunder Loan](https://www.codehawks.com/contests/clocopz26004rkx08q1n61wnz) |     1     |      0      |    -     | [Report](https://github.com/DevPelz/Portfolio/blob/main/CodeHawks/Pelz-First-Flight-%233_-Thunder-Loan.md) |
-| [Santa's List](https://www.codehawks.com/contests/clpba0ama0001ywpabex01hrp) |     3     |      0      |    -     | [Report](https://github.com/DevPelz/Portfolio/blob/main/CodeHawks/Pelz-First-Flight-%235_-Santa's-List.md) |
-|  [Baba Marta](https://www.codehawks.com/contests/cluseb1bf0001s4tjl2rzajup)  |     2     |      1      |    -     |                                                 [Report]()                                                 |
-|        [MorpheusAI](https://codehawks.cyfrin.io/c/2024-01-Morpheus/)         |     -     |      -      |    1     |                       [Report](https://codehawks.cyfrin.io/c/2024-01-Morpheus/s/62)                        |
-|        [TempleGold](https://codehawks.cyfrin.io/c/2024-07-templegold)        |     1     |      -      |    -     |                      [Report](https://codehawks.cyfrin.io/c/2024-07-templegold/s/323)                      |
+|                                   Contest                                    | High risk | Medium risk | Low risk |                                                 Security Report                                                 | Ranking |
+| :--------------------------------------------------------------------------: | :-------: | :---------: | :------: | :-------------------------------------------------------------------------------------------------------------: | ------- |
+| [Thunder Loan](https://www.codehawks.com/contests/clocopz26004rkx08q1n61wnz) |     1     |      0      |    -     |   [Report](https://github.com/DevPelz/Portfolio/blob/main/CodeHawks/Pelz-First-Flight-%233_-Thunder-Loan.md)    |
+| [Santa's List](https://www.codehawks.com/contests/clpba0ama0001ywpabex01hrp) |     3     |      0      |    -     |   [Report](https://github.com/DevPelz/Portfolio/blob/main/CodeHawks/Pelz-First-Flight-%235_-Santa's-List.md)    |
+|  [Baba Marta](https://www.codehawks.com/contests/cluseb1bf0001s4tjl2rzajup)  |     2     |      1      |    -     |                                                   [Report]()                                                    |
+|        [MorpheusAI](https://codehawks.cyfrin.io/c/2024-01-Morpheus/)         |     -     |      -      |    1     |                          [Report](https://codehawks.cyfrin.io/c/2024-01-Morpheus/s/62)                          |
+|        [TempleGold](https://codehawks.cyfrin.io/c/2024-07-templegold)        |     1     |      -      |    -     |                        [Report](https://codehawks.cyfrin.io/c/2024-07-templegold/s/323)                         |
+|      [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy)       |     -     |      -      |    1     | [Report](https://codehawks.cyfrin.io/c/2024-07-biconomy/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |
 
 ## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
 
