@@ -11,9 +11,9 @@ Hey 👋, Pelz here! I'm an independent blockchain security researcher, busy com
 Always seeking new opportunities! Whether it's a job, security audit, or collaboration, hit me up. Let's make things happen!
 
 - Twitter: [@Pelz_Dev](https://twitter.com/Pelz_Dev)
-- Telegram: [@Pelumi](https://t.me/Pelumi_Al)
-- Linkedin: [Oluwapelumi Alonge](https://www.linkedin.com/in/oluwapelumi-alonge-659911251/)
+- Telegram: [@Devpelzz](https://t.me/Devpelzz)
 - Email: [devpelz64@gmail.com](devpelz64@gmail.com)
+- Discord: devpelz
 
 # Summary - Pelz
 
