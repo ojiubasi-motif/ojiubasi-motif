@@ -45,6 +45,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 |                           Contest                            | High risk | Medium risk |                                         Security Report                                          | Ranking | Team Name |
 | :----------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------------------: | :-----: | :-------: |
 | [Exactly Protocol](https://audits.sherlock.xyz/contests/396) |     -     |      1      | [Report](https://github.com/sherlock-audit/2024-07-exactly-stacking-contracts-judging/issues/22) |   4th   | HackTrace |
+|   [Velocimeter](https://audits.sherlock.xyz/contests/442)    |     1     |      -      |                    [Report](https://audits.sherlock.xyz/contests/442/report)                     |    -    | HackTrace |
 
 ## Private Contests/ Low Findings
 
