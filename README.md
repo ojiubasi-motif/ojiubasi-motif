@@ -1,55 +1,50 @@
 # About Me
 
-Hey 👋, Pelz here! I'm an independent blockchain security researcher, busy competing in audit contests on platforms like Code4rena, Sherlock, and Codehawks. Check out my past findings and contest results here.
+Hi 🧑‍💻, My name is Oji; A passionate security researcher. always hunting for bugs in codebases of smart contracts. Check out my past findings and contest results here.
 
-- Code4rena Profile: [Pelz](https://code4rena.com/@Pelz)
-- Sherlock Profile: [Pelz](https://audits.sherlock.xyz/watson/Pelz)
-- CodeHawks Profile: [Pelz](https://www.codehawks.com/profile/clokuwofs000yih08n1oqrf6d)
+<!-- - Code4rena Profile: [Pelz](https://code4rena.com/@Pelz)
+- Sherlock Profile: [Pelz](https://audits.sherlock.xyz/watson/Pelz) -->
+- CodeHawks Profile: [cryptedOji](https://codehawks.cyfrin.io/profile/clxq432gf0000oyuawxf6o6f7)
 
 ## Contact Information
 
 Always seeking new opportunities! Whether it's a job, security audit, or collaboration, hit me up. Let's make things happen!
 
-- Twitter: [@Pelz_Dev](https://twitter.com/Pelz_Dev)
-- Telegram: [@Devpelzz](https://t.me/Devpelzz)
-- Email: [devpelz64@gmail.com](devpelz64@gmail.com)
-- Discord: devpelz
+- Twitter: [@Ojiubasi](https://twitter.com/ojiubasi)
+- Telegram: [@cryptedOji](https://t.me/cryptedOji)
+- Email: [oji.crypto@gmail.com](oji.crypto@gmail.com)
+- Discord: [cryptedOji](https://discord.com/users/cryptedoji)
 
-# Summary - Pelz
+# Summary - Oji
 
-|    Overall     | High risk | Medium risk | Low Risks |
-| :------------: | :-------: | :---------: | :-------: |
-| 14 High/Medium | 10 Highs  |  5 Mediums  |  6 Lows   |
+|Contest|    Overall     | High risk | Medium risk | Low Risks |
+|:----------:| :------------: | :-------: | :---------: | :-------: |
+| First Flight| 14 High/Medium/Low | 8 Highs  |  4 Mediums  |  2 Lows   |
 
-## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
+## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks (First Flight)
 
-|                                   Contest                                    | High risk | Medium risk | Low risk |                                                 Security Report                                                 | Ranking | Team Name |
+|                                   Contest                                    | High risk | Medium risk | Low risk |                                                 Security Report                                                 | Ranking 🎖 | Team Name |
 | :--------------------------------------------------------------------------: | :-------: | :---------: | :------: | :-------------------------------------------------------------------------------------------------------------: | ------- | --------- |
-| [Thunder Loan](https://www.codehawks.com/contests/clocopz26004rkx08q1n61wnz) |     1     |      0      |    -     |   [Report](https://github.com/DevPelz/Portfolio/blob/main/CodeHawks/Pelz-First-Flight-%233_-Thunder-Loan.md)    |         |           |
-| [Santa's List](https://www.codehawks.com/contests/clpba0ama0001ywpabex01hrp) |     3     |      0      |    -     |   [Report](https://github.com/DevPelz/Portfolio/blob/main/CodeHawks/Pelz-First-Flight-%235_-Santa's-List.md)    |         |           |
-|  [Baba Marta](https://www.codehawks.com/contests/cluseb1bf0001s4tjl2rzajup)  |     2     |      1      |    -     |                                                   [Report]()                                                    |         |           |
-|        [MorpheusAI](https://codehawks.cyfrin.io/c/2024-01-Morpheus/)         |     -     |      -      |    1     |                          [Report](https://codehawks.cyfrin.io/c/2024-01-Morpheus/s/62)                          |         |           |
-|        [TempleGold](https://codehawks.cyfrin.io/c/2024-07-templegold)        |     1     |      -      |    -     |                        [Report](https://codehawks.cyfrin.io/c/2024-07-templegold/s/323)                         |         |           |
-|      [Biconomy: Nexus](https://codehawks.cyfrin.io/c/2024-07-biconomy)       |     -     |      -      |    1     | [Report](https://codehawks.cyfrin.io/c/2024-07-biconomy/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |         |           |
+| [My Cut](https://codehawks.cyfrin.io/c/2024-08-MyCut/) |     1     |      0      |    1     |   [H1](https://codehawks.cyfrin.io/c/2024-08-MyCut/s/120), [L1](https://codehawks.cyfrin.io/c/2024-08-MyCut/s/267)    |    45     |    -       |
+| [Steaking](https://codehawks.cyfrin.io/c/2024-08-steaking) |     2     |      0      |    1     |   [H1](https://codehawks.cyfrin.io/c/2024-08-steaking/s/7),[H2](https://codehawks.cyfrin.io/c/2024-08-steaking/s/42),[L1](https://codehawks.cyfrin.io/c/2024-08-steaking/s/40), |     8    |    -     |
+|  [KittyFi](https://codehawks.cyfrin.io/c/2024-08-kitty-fi)  |     1     |      1    |    -     |                                                   [H1](https://codehawks.cyfrin.io/c/2024-08-kitty-fi/s/109), [M1](https://codehawks.cyfrin.io/c/2024-08-kitty-fi/s/62)                                                    |     7    |       -    |
+|        [The Predicter](https://codehawks.cyfrin.io/c/2024-07-the-predicter)         |     4    |      3     |    1     |                          [H1](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/73), [H2](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/120), [H3](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/84), [H4](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/120), [M1](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/115), [M2](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/94), [M3](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/82)                          |    8     |      -     |
+| 
 
 ## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
 
 |                            Contest                            | High risk | Medium risk | Low risk |                             Security Report                              | Ranking | Team Name |
 | :-----------------------------------------------------------: | :-------: | :---------: | :------: | :----------------------------------------------------------------------: | ------- | --------- |
-| [Ai Arena](https://code4rena.com/audits/2024-02-ai-arena#top) |     2     |      1      |    -     | [Report](https://github.com/code-423n4/2024-02-ai-arena-findings/issues) |         |           |
-|     [Noya](https://code4rena.com/audits/2024-04-noya#top)     |     -     |      1      |    -     |                             [Coming soon]()                              |         |           |
-|    [Predy](https://code4rena.com/audits/2024-05-predy#top)    |     -     |      1      |    -     |                             [Coming soon]()                              |         |           |
+| - |     -     |      -      |    -     |     -      |     -    |     -      |
 
 ## <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=40 height=27> Sherlock
 
 |                           Contest                            | High risk | Medium risk |                                         Security Report                                          | Ranking | Team Name |
 | :----------------------------------------------------------: | :-------: | :---------: | :----------------------------------------------------------------------------------------------: | :-----: | :-------: |
-| [Exactly Protocol](https://audits.sherlock.xyz/contests/396) |     -     |      1      | [Report](https://github.com/sherlock-audit/2024-07-exactly-stacking-contracts-judging/issues/22) |   4th   | HackTrace |
-|   [Velocimeter](https://audits.sherlock.xyz/contests/442)    |     1     |      -      |                    [Report](https://audits.sherlock.xyz/contests/442/report)                     |    -    | HackTrace |
+| - |     -     |      -      |    -     |     -      |     -    |     -      |
 
-## Private Contests/ Low Findings
+## 🔒 Private Contests/ Low Findings
 
 |                            Contest                             | High risk | Medium risk | Low risk | Ranking |                                                      Security report                                                       |
 | :------------------------------------------------------------: | :-------: | :---------: | :------: | :-----: | :------------------------------------------------------------------------------------------------------------------------: |
-| [PossumLabsV2](https://github.com/PossumLabsCrypto/PortalsV2)  |     -     |      -      |    1     |    -    |    [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf)    |
-| [PossumAdapters](https://github.com/PossumLabsCrypto/Adapters) |     -     |      -      |    3     |    -    | [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-Adapters-Security-Review.pdf) |
+| - |     -     |      -      |    -     |     -      |     -    |     -      |
