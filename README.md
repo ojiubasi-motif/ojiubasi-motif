@@ -4,7 +4,7 @@ Hi 🧑‍💻, My name is Oji; A passionate security researcher. always hunting
 
 <!-- - Code4rena Profile: [Pelz](https://code4rena.com/@Pelz)
 - Sherlock Profile: [Pelz](https://audits.sherlock.xyz/watson/Pelz) -->
-- CodeHawks Profile: [cryptedOji](https://codehawks.cyfrin.io/profile/clxq432gf0000oyuawxf6o6f7)
+- CodeHawks Profile: [cryptedOji](https://profiles.cyfrin.io/u/cryptedoji)
 
 ## Contact Information
 
