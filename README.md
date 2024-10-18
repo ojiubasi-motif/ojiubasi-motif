@@ -19,12 +19,23 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 
 |Contest|    Overall     | High risk | Medium risk | Low Risks |
 |:----------:| :------------: | :-------: | :---------: | :-------: |
-| First Flight| 14 High/Medium/Low | 8 Highs  |  4 Mediums  |  2 Lows   |
+| competitive audits| **3** High/Medium/Low | 2 Highs  |  - Mediums  |  1 Lows   |
+| First Flight| **14** High/Medium/Low | 8 Highs  |  4 Mediums  |  2 Lows   |
+
+
+## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks (Competitive Audits)
+
+|                                   Contest                                    | High risk | Medium risk | Low risk |                                                 Security Report                                                | Earning ($) | Ranking 🎖 | Team Name |
+| :--------------------------------------------------------------------------: | :-------: | :---------: | :------: | :-------------------------------------------------------------------------------------------------------------: | ------- | --------- |--------- 
+| [Zaros](https://codehawks.cyfrin.io/c/2024-07-zaros/) |     2     |      0     |    1     |   [H1](https://codehawks.cyfrin.io/c/2024-07-zaros/s/785/), [H2](https://codehawks.cyfrin.io/c/2024-07-zaros/s/804/), [L1](https://codehawks.cyfrin.io/c/2024-07-zaros/s/810/)    |$98 |    56     |    -       |
+
+
 
 ## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks (First Flight)
 
 |                                   Contest                                    | High risk | Medium risk | Low risk |                                                 Security Report                                                 | Ranking 🎖 | Team Name |
 | :--------------------------------------------------------------------------: | :-------: | :---------: | :------: | :-------------------------------------------------------------------------------------------------------------: | ------- | --------- |
+| [Mystery Box](https://codehawks.cyfrin.io/c/2024-09-mystery-box/) |     2     |      1      |    0     |   [H1](https://codehawks.cyfrin.io/c/2024-09-mystery-box/s/618/), [H2](https://codehawks.cyfrin.io/c/2024-09-mystery-box/s/626/), [M1](https://codehawks.cyfrin.io/c/2024-09-mystery-box/s/621/)    |    21     |    -       |
 | [My Cut](https://codehawks.cyfrin.io/c/2024-08-MyCut/) |     1     |      0      |    1     |   [H1](https://codehawks.cyfrin.io/c/2024-08-MyCut/s/120), [L1](https://codehawks.cyfrin.io/c/2024-08-MyCut/s/267)    |    45     |    -       |
 | [Steaking](https://codehawks.cyfrin.io/c/2024-08-steaking) |     2     |      0      |    1     |   [H1](https://codehawks.cyfrin.io/c/2024-08-steaking/s/7),[H2](https://codehawks.cyfrin.io/c/2024-08-steaking/s/42),[L1](https://codehawks.cyfrin.io/c/2024-08-steaking/s/40), |     8    |    -     |
 |  [KittyFi](https://codehawks.cyfrin.io/c/2024-08-kitty-fi)  |     1     |      1    |    -     |                                                   [H1](https://codehawks.cyfrin.io/c/2024-08-kitty-fi/s/109), [M1](https://codehawks.cyfrin.io/c/2024-08-kitty-fi/s/62)                                                    |     7    |       -    |
