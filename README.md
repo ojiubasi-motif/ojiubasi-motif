@@ -1,6 +1,6 @@
 # About Me
 
-Hi 🧑‍💻, My name is Oji; A passionate web3 backend developer who's so passionate about security and research. always hunting for bugs in codebases of smart contracts and building scalable backend infrastructure. Check out my past findings and contest results here. you can also see some of my projects in my repositories.
+Hi 🧑‍💻, My name is Oji; A passionate web3 backend developer who's so devoted to security and research. always hunting for bugs in codebases of smart contracts and building scalable backend infrastructure. Check out my past findings and contest results here. you can also see some of my projects in my repositories.
 
 <!-- - Code4rena Profile: [Pelz](https://code4rena.com/@Pelz)
 - Sherlock Profile: [Pelz](https://audits.sherlock.xyz/watson/Pelz) -->
